@@ -1,5 +1,10 @@
+"""
+this file contains a error.
+c_sto is referenced before assignment
+"""
+
 from reduced_row_echelon import mat_mult
-def power_met():
+"""def power_met():
     c=x0
     for i in range(iterations):
         c=mat_mult(a,c)
@@ -20,4 +25,4 @@ x0=[[1]]*len(a[0])
 #a=[[3,1],[2,4]]
 #x0=[[(2**(1/2))/2]]*2
 iterations=10
-power_met()
+power_met()"""
